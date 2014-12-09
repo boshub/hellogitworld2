@@ -1,4 +1,3 @@
-hellogitworld2
-==============
+# Hello Git World 
 
-practice
+practice repository for web editing files in GitHub 
